@@ -1,19 +1,18 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2020-01-02'
+title: 'Technical skills and Interests'
+date: '2021-12-11'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+I have been building on my technical skills through personal projects by developing APIs. The first project was a sample ecommerce platform which was done in a monolithic type of architecture (github.com/edmond-dev/server-bof). This was more learning than developing an actual site. Currently, I am engaged in a bigger personal project in which am using gRPC to develop the project in a microservice architecture which offers more flexibility as I advance with the project and this engagement also keeps me in touch with new tech while exploring more technologies.
 
-You can use Static Generation for many types of pages, including:
+ My area of interest is mostly working on the backend. Am also leveraging my backend skills and knowledge to stack up on skills in:
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+ - os & kernels
+ - networks
+ - distributed systems and parallel computing
+ - mobile systems
+ - compilers and language tools
+ - For client in web programming, I only utilize http and go html packages.
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+ My goal is *I just develop and build softwares and systems for all*
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
