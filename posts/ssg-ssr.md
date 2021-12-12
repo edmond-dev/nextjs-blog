@@ -20,15 +20,18 @@ My current skills and technologies mastered are:
  Containers:
  - Docker
  - Kubernetes
+ 
  Certifications:
  - Cloud core - IBM cloud
    Familiar with essentials of cloud application and terms:
    - Public, private and hybrid multi clouds.
    - Devops, microservices, serverless, Cloud native, virtualization, VMs, Object Storage.
+
  Containers & kubernetes:
    - YAML deployment file, exposing deployment as a service
    - Manage applications with kubernetes, use ReplicaSets, auto scaling.
    - Benefits of Openshift and Istio
+
  MongoDB Data modelling and Aggregation Framework
 
  My area of interest is mostly working on the backend. Am also leveraging my backend skills and knowledge to stack up on skills in:
