@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello there, they call me Edmond Mumwensi. Nothing too special here. Just me and am all about creating, designing, programming, developing, and building softwares and systems.
+        <p>Hello there, people call me Edmond Mumwensi. And am all about creating, designing, programming, developing, and building softwares and systems.
           I like getting engaged in the process, developing, discovering and exploring new tech. 
         </p>
         <p>
