@@ -15,12 +15,14 @@ My current skills and technologies mastered are:
  Databases:
  - Mysql
  - MongoDB 
+
  Cloud:
- - Cloud platforms and models
+  - Cloud platforms and models
+  
  Containers:
  - Docker
  - Kubernetes
- 
+
  Certifications:
  - Cloud core - IBM cloud
    Familiar with essentials of cloud application and terms:
