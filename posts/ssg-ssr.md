@@ -17,7 +17,7 @@ My current skills and technologies mastered are:
  - MongoDB 
  Cloud:
  - Cloud platforms and models
- Containers
+ Containers:
  - Docker
  - Kubernetes
  Certifications:
@@ -25,7 +25,7 @@ My current skills and technologies mastered are:
    Familiar with essentials of cloud application and terms:
    - Public, private and hybrid multi clouds.
    - Devops, microservices, serverless, Cloud native, virtualization, VMs, Object Storage.
- Containers & kubernetes
+ Containers & kubernetes:
    - YAML deployment file, exposing deployment as a service
    - Manage applications with kubernetes, use ReplicaSets, auto scaling.
    - Benefits of Openshift and Istio
