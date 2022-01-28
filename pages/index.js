@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello there, people call me Edmond Mumwensi. And am all about creating, designing, programming, developing, and building softwares and systems.
-          I like getting engaged in the process, developing, discovering and exploring new tech. 
+          I like getting engaged in the process of developing, discovering and exploring new tech. 
         </p>
         <p>
           <a href="https://github.com/edmond-dev">My github.com</a>
