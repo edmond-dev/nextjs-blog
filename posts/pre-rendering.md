@@ -1,6 +1,6 @@
 ---
 title: 'Technology stack in this site'
-date: '2021-12-11'
+date: '2022-01-27'
 ---
 
 Technologies used in making this website are: 

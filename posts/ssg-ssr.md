@@ -1,9 +1,10 @@
 ---
 title: 'Technical skills and Interests'
-date: '2021-12-11'
+date: '2022-01-27'
 ---
 
-I have been building on my technical skills through personal projects by developing APIs. The first project was a sample ecommerce platform which was done in a monolithic type of architecture. This was more learning than developing an actual site. Currently, I am engaged in a bigger personal project in which am using gRPC to develop the project in a microservice architecture which offers more flexibility as I advance with the project and this engagement also keeps me in touch with new tech while exploring more technologies.
+I have been building on my technical skills through class projects and personal projects. My classes have been so significant in sharpening my skills. For instance, during my winter class, I took a bash scripting class in which I worked on several scripts that, for example read urls from a file, the script also checked the responsiveness of the urls through parsing an http code from the returned curl results of the url.  As an assignment, I also coded a script that was used to create users in linux and managing users permissions. We also worked on git, which helped me form a solid foundation in version control in software deveopment and management.
+Outside of class, I used some the skills gained from my classes to real world application. The first project was a sample ecommerce platform which was done in a monolithic type of architecture. In a monolithic architechure, version control and database management is less complex compared to microservices. I explored both known architechures as way to experiment with software development process in different scenarios and also as a way to see the practical use of tech tools that I have learned from class. Through involvement in class projects and experimental personal projects, I have become more confident and have gained knowledge and some experience in software development.
 
 My current skills and technologies mastered are:
 
@@ -12,6 +13,9 @@ My current skills and technologies mastered are:
  - gRPC
  - Golang
  - javascript
+
+ Misc.
+ - Linux Ubuntu -Bash scripting
 
  Databases:
  - Mysql
